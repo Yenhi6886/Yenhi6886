@@ -58,9 +58,9 @@
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yenhi6886&show_icons=true&theme=radical&count_private=true&cache_seconds=1800)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yenhi6886&show_icons=true&theme=radical&count_private=true&cache_seconds=1700)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yenhi6886&layout=compact&theme=radical&count_private=true&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yenhi6886&layout=compact&theme=radical&count_private=true&cache_seconds=1700)
 
 ---
 
