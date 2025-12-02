@@ -52,7 +52,7 @@
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 **Other**  
-🌐 English: Technical reading & documentation comprehension  
+🌐 English: Technical reading & documentation comprehension 
 
 ---
 
