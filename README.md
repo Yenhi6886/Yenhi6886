@@ -58,9 +58,9 @@
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats-git-master-org.vercel.app/api?username=Yenhi6886&show_icons=true&theme=radical)
+![GitHub Stats](https://github-nine-ochre.vercel.app/api?username=Yenhi6886&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats-git-master-org.vercel.app/api/top-langs/?username=Yenhi6886&layout=compact&theme=radical)
+![Top Langs](https://github-nine-ochre.vercel.app/api/top-langs/?username=Yenhi6886&layout=compact&theme=radical)
 
 ---
 
